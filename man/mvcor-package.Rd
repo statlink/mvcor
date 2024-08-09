@@ -1,0 +1,36 @@
+\name{mvcor-package}
+\alias{mvcor-package}
+\docType{package}
+\title{
+Correlation Coefficients for Multivariate Data
+}
+
+\description{
+Correlation Coefficients for Multivariate Data.
+}
+
+\details{
+\tabular{ll}{
+Package: \tab mvcor\cr
+Type: \tab Package\cr
+Version: \tab 1.0 \cr
+Date: \tab 2024-08-09\cr
+License: \tab GPL-2\cr
+}
+}
+
+\author{
+Michail Tsagris \email{mtsagris@uoc.gr}
+}
+
+\section{Maintainers}{
+Michail Tsagris <mtsagris@uoc.gr>.
+}
+
+%\references{
+%}
+
+
+
+
+

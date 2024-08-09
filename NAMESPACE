@@ -1,0 +1,9 @@
+#useDynLib(pchc, .registration = TRUE)
+
+importFrom("Rfast", colmeans, lmfit, cova)
+importFrom("stats", .lm.fit)
+
+exportPattern("^[[:alpha:]]+")
+exportPattern("^[^\\.]")
+
+
