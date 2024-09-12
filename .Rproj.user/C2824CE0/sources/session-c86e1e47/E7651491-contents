@@ -26,7 +26,7 @@ The RV correlation coefficient
 }
 
 \value{
-The value of the RV coefficient.
+The vlaue of the RV coefficient.
 }
 
 \references{
@@ -44,7 +44,7 @@ R implementation and documentation: Michail Tsagris \email{mtsagris@uoc.gr}.
 %}
 
 \seealso{
-\code{ \link{mrv}, \link{drv}, \link{sq.correl}, \link{bcdcor}
+\code{ \link{sq.correl}, \link{bcdcor}
 }
 }
 

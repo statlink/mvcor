@@ -1,7 +1,7 @@
 #useDynLib(pchc, .registration = TRUE)
 
 importFrom("Rfast", colmeans, lmfit, cova, dcor, bcdcor, Dist)
-importFrom("stats", .lm.fit, cor)
+importFrom("stats", .lm.fit)
 
 exportPattern("^[[:alpha:]]+")
 exportPattern("^[^\\.]")
