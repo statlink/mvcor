@@ -46,6 +46,8 @@ The (bias corrected) distance correlation.
 
 \references{
 G.J. Szekely, M.L. Rizzo and N. K. Bakirov (2007). Measuring and Testing Independence by Correlation of Distances. Annals of Statistics, 35(6): 2769--2794.
+
+Szekely G. J. and Rizzo M. L. (2023). The energy of data and distance correlation. Chapman and Hall/CRC.
 }
 
 \author{
@@ -61,6 +63,6 @@ R implementation and documentation: Michail Tsagris <mtsagris@uoc.gr>.
 
 \examples{
 dcor( as.matrix(iris[, 1:2]), as.matrix(iris[, 3:4]) )
-bcdcor( as.matrix(iris[, 1:2]), as.matrix(iris[, 3:4]) )
+dcor( as.matrix(iris[, 1:2]), as.matrix(iris[, 3:4]), bc = TRUE )
 }
 
