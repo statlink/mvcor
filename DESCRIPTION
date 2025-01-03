@@ -1,7 +1,7 @@
 Package: mvcor
 Title: Correlation Coefficients for Multivariate Data
 Version: 1.1
-Date: 2024-01-03
+Date: 2025-01-03
 Authors@R: person("Michail", "Tsagris", role = c("aut", "cre"), email = "mtsagris@uoc.gr")
 Author: Michail Tsagris [aut, cre]
 Maintainer: Michail Tsagris <mtsagris@uoc.gr>
